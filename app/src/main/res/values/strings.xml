@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YouTubePlayer2</string>
+    <string name="library">https://github.com/PierfrancescoSoffritti/android-youtube-player#youtubeplayerseekbar</string>
+</resources>
